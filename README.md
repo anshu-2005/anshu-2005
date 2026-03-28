@@ -29,7 +29,7 @@
 - Git, GitHub, Maven, Postman  
 
 **Core Concepts:**
-- OOP, Data Structures & Algorithms, DBMS  
+- OOP, Data Structures & Algorithms, DBMS, CN
 
 ---
 
