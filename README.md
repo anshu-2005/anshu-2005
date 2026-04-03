@@ -1,7 +1,7 @@
 # Hi 👋, I'm Anshu Kumar
 
 
-🎓 Final Year B.Tech CSE Student  
+🎓 Final Year B.Tech CSE Student 
 💻 Software Engineer | Full Stack Developer  
 
 ---
