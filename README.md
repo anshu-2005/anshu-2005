@@ -42,5 +42,5 @@
 ---
 
 ## 📫 Contact
-- 💼 LinkedIn: https://www.linkedin.com/in/anshu-kumar-a24453253  
-- 📧 Email: anshuparihar848@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/anshu-kumar-a24453253
+- 📧 Email: anshuparihar848@gmail.com
