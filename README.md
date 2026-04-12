@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 - 🔭 Currently building full-stack projects & practicing DSA  
-- 🌱 Improving problem-solving and backend development skills  
+-  Improving problem-solving and backend development skills  
 
 ---
 
