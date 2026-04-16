@@ -36,7 +36,6 @@
 - Solving DSA problems daily  
 - Building production-level projects  
 - Strengthening backend fundamentals  
-
 ---
 
 ## 📫 Contact
